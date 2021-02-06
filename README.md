@@ -1,10 +1,15 @@
-# Book Template
+# The Utility and Importance of Creeds and Confessions
+## Addressed particularly to candidates for the ministry.
+
+### by Samuel Miller
 
 ## Warhorn Classics
 
-## 2020
+## 1839?
 
-This book is a template for starting new Warhorn Classics book projects. It also contains some brief instructions for how to get started.
+First delivered as a lecture in 1824... 
+
+"In necessariis unitas, in non necessariis libertas, in omnibus charitas." —Augustin.
 
 Available for your reading pleasure here:
-https://warhornmedia.github.io/warhorn-classics-book-template
+https://warhornmedia.github.io/miller-creeds-and-confessions
