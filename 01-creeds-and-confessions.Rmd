@@ -14,7 +14,7 @@ This is a subject, which, though it properly belongs to the department of Church
 
 It is my design, first, to offer some remarks on the utility and importance of written Creeds; and secondly, to obviate some of the more common and plausible objections which have been urged against them by their adversaries.
 
-### I. [Utility and importance of written Creeds] {-}
+## I. [Utility and importance of written Creeds] {-}
 
 By a Creed, or Confession of Faith, I mean, an exhibition, in human language, of those great doctrines which are believed by the framers of it to be taught in the Holy Scriptures; and which are drawn out in regular order, for the purpose of ascertaining how far those who wish to unite in church fellowship are really agreed in the fundamental principles of Christianity. Creeds and Confessions do not claim to be in themselves laws of Christ's house, or legislative enactments, by which any set of opinions are constituted truths, and which require, on that account, to be received as truths among the members of his family. They only profess to be summaries, extracted from the Scriptures, of a few of those great Gospel doctrines, which are taught by Christ himself; and which those who make the summary in each particular case, concur in deeming important, and agree to make the test of their religious union. They have no idea that, in forming this summary, they make anything truth, that was not truth before; or that they thereby contract an obligation to believe, what they were not bound by the authority of Christ to believe before. But they simply consider it as a list of the leading truths which the Bible teaches, which, of course, all men ought to believe, because the Bible does teach them; and which a certain portion of the visible church catholic agree in considering as a formula by means of which they may know and understand one another.
 
@@ -110,7 +110,7 @@ It might also be further shown, that sound and scriptural Confessions of Faith, 
 
 But while we attend to the principal arguments in favour of written Creeds, justice to the subject requires that we
 
-### II. [Examining some objections to creeds] {-}
+## II. [Examining some objections to creeds] {-}
 
 Examine some of the principal objections which have been made to Creeds by their adversaries.
 
@@ -207,7 +207,7 @@ It is plain, then, that unless Confessions of Faith contain articles, not, stric
 
 But for further details on this subject, both for and against the doctrine which I maintain, I must refer you to those works which have been devoted to its more extended discussion: more particularly to what is said by the judicious and excellent Mr. Dunlop, in the able Preface to his "Collection of Confessions:" to "The Confessional," by Mr. Blackburn, one of the most zealous and formidable opposers of Creeds; which will prepare you for perusing some of the best of the many valuable answers to that far-famed work: to "Walker's Vindication of the Church of Scotland," & c: and, finally, to Mr. Dyer's "Inquiry into the Nature of Subscription to Articles of Religion."
 
-### [III. Practical inferences] {-}
+## [III. Practical inferences] {-}
 
 The subject, beloved Pupils, on which I have been addressing you, is eminently a practical one. It enters deeply into many questions of personal and official duty. I shall, therefore, detain you a few moments longer, by calling your attention to some of those practical inferences from the foregoing principles and reasonings, which appear to me to deserve your serious regard-and
 
